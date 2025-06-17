@@ -5,6 +5,14 @@ https://aipapai.shop/_temp/band.m3u8
 https://aipapai.shop/_temp/globorj.m3u8
 #EXTINF:-1 ,REDE RECORD
 https://aipapai.shop/_temp/record.m3u8
+#EXTINF:-1 ,REDE TV
+https://video04.logicahost.com.br/tvpampa/tvpampa/chunklist_w1215849527.m3u8
+#EXTINF:-1 ,REDE BRASIL
+https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/chunklist_w970341957.m3u8
+#EXTINF:-1 ,TV CULTURA
+https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w1455114378.m3u8
+#EXTINF:-1 ,TV BRASIL
+https://tvbrasil-stream.ebc.com.br/EBC_HD-avc1_2300000=10000.m3u8
 #EXTINF:-1 ,sport tv 1
 https://aipapai.shop/_temp/sportv.m3u8
 #EXTINF:-1 ,sport tv 2
@@ -91,6 +99,10 @@ https://aipapai.shop/_temp/space.m3u8
 https://aipapai.shop/_temp/studiouniversal.m3u8
 #EXTINF:-1 ,TNT
 https://aipapai.shop/_temp/tnt.m3u8
+#EXTINF:-1 ,TNT SERIES
+https://aipapai.shop/_temp/tntseries.m3u8
+#EXTINF:-1 ,TNT NOVELAS
+https://aipapai.shop/_temp/tntnovelas.m3u8
 #EXTINF:-1 ,UNIVERSAL TV
 https://aipapai.shop/_temp/universaltv.m3u8
 #EXTINF:-1 ,WARNER CHANNEL
@@ -117,6 +129,8 @@ https://aipapai.shop/_temp/recordnews.m3u8
 https://aipapai.shop/_temp/off.m3u8
 #EXTINF:-1 ,COMEDY CENTRAL
 https://aipapai.shop/_temp/comedycentral.m3u8
+#EXTINF:-1 ,MULTI SHOW
+https://aipapai.shop/_temp/multishow.m3u8
 #EXTINF:-1 ,DISCOVERY H & H
 https://aipapai.shop/_temp/discoveryhh.m3u8
 #EXTINF:-1 ,DISCOVERY CHANNEL
@@ -137,3 +151,15 @@ https://aipapai.shop/_temp/discoveryturbo.m3u8
 https://aipapai.shop/_temp/animalplanet.m3u8
 #EXTINF:-1 ,VIVA
 https://aipapai.shop/_temp/viva.m3u8
+#EXTINF:-1 ,TV NOVO TEMPO
+https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/chunklist_b3628000_slpor.m3u8
+#EXTINF:-1 ,RF TV
+https://tv03.zas.media:1936/rftv/rftv/chunklist_w2032049182.m3u8
+#EXTINF:-1 ,REDE VIDA
+https://d12e4o88jd8gex.cloudfront.net/out/v1/cea3de0b76ac4e82ab8ee0fd3f17ce12/index_1.m3u8
+#EXTINF:-1 ,TV APARECIDA
+https://cdn.live.br1.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/media-uit8arnra_512654.m3u8
+#EXTINF:-1 ,TV GAZETA
+https://live.eu-north-1b.cf.dmcdn.net/sec2(SKjYGPBLRNJqDDzTtB-xR8Hxt99nQqA2AbvzL-NkQZXC2Zou-qrR7PUhO12OFAjXwBySIGOU0gydvt8M9c6-UWO1F8bxw3jaKqiyh4dimVAnuDJ_yRfFUwnOoYFBTIq6)/dm/3/x8ttlxm/s/live-720.m3u8#cell=lcf-eu-north-1b
+#EXTINF:-1 ,TV UNIVERSAL
+https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/chunklist_8f964974-2b62-420a-a131-ced1c5eb105f.m3u8
