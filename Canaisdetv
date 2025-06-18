@@ -7,12 +7,26 @@ https://aipapai.shop/_temp/globorj.m3u8
 https://aipapai.shop/_temp/record.m3u8
 #EXTINF:-1 ,REDE TV
 https://video04.logicahost.com.br/tvpampa/tvpampa/chunklist_w1215849527.m3u8
+#EXTINF:-1 ,SBT interior
+https://cdn.live.br1.jmvstream.com/w/LVW-8379/LVW8379_rIq6ZYiIiA/chunklist.m3u8
 #EXTINF:-1 ,REDE BRASIL
 https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/chunklist_w970341957.m3u8
-#EXTINF:-1 ,TV CULTURA
-https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w1455114378.m3u8
 #EXTINF:-1 ,TV BRASIL
 https://tvbrasil-stream.ebc.com.br/EBC_HD-avc1_2300000=10000.m3u8
+#EXTINF:-1 ,REDE CNT
+https://spalla-deep-edge.akamaized.net/live/c0fbab1d-8ad6-4b6c-b053-b30a89b02110/s1/playlist-480p.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmlfc3ViIjoiL2MwZmJhYjFkLThhZDYtNGI2Yy1iMDUzLWIzMGE4OWIwMjExMC8iLCJ1aWQiOiIxMTliNzNiYi1jZjgzLTQ4NDctYWQ0Ni0zODkxNjU2OThjYWQiLCJyYXUiOm51bGwsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsImRwciI6dHJ1ZSwibmJmIjoxNzUwMjUyNjIzLCJpYXQiOjE3NTAyNTI2MjMsImV4cCI6MTc1MDMzOTAyMywianRpIjoiMTE5YjczYmItY2Y4My00ODQ3LWFkNDYtMzg5MTY1Njk4Y2FkIiwiaXNzIjoiU3BhbGxhIn0._zvuUuRdWpQEB6v-Cx6AK0CWyyTgNpxoy838AW84a7o&uid=119b73bb-cf83-4847-ad46-389165698cad&magica=sim
+#EXTINF:-1 ,TV CÂMARA
+https://stream3.camara.gov.br/tv1/manifest.m3u8
+#EXTINF:-1 ,TV CULTURA
+https://player-tvcultura.stream.uol.com.br/live/tvcultura_lsd.m3u8?vhost=player-tvcultura.stream.uol.com.br
+#EXTINF:-1 ,CABO FRIO TV
+https://video05.logicahost.com.br/ararutv/ararutv/chunklist_w786254578.m3u8
+#EXTINF:-1 ,TV METROPOLITANA
+https://stmv5.samcast.com.br/claudio8701/claudio8701/chunklist_w522700960.m3u8
+#EXTINF:-1 ,COM BRASIL TV
+https://br5093.streamingdevideo.com.br/abc/abc/chunklist_w1357941729.m3u8
+#EXTINF:-1 ,TV A FOLHA
+https://video01.logicahost.com.br/tvafolha/tvafolha/chunklist_w319879898.m3u8
 #EXTINF:-1 ,sport tv 1
 https://aipapai.shop/_temp/sportv.m3u8
 #EXTINF:-1 ,sport tv 2
@@ -107,12 +121,24 @@ https://aipapai.shop/_temp/tntnovelas.m3u8
 https://aipapai.shop/_temp/universaltv.m3u8
 #EXTINF:-1 ,WARNER CHANNEL
 https://aipapai.shop/_temp/warnerchannel.m3u8
+#EXTINF:-1 ,TV BONS TEMPOS
+https://stmv1.srvif.com/canal29/canal29/chunklist_w722344508.m3u8
 #EXTINF:-1 ,CARTOONITO
 https://aipapai.shop/_temp/cartoonito.m3u8
 #EXTINF:-1 ,CARTOON NETWORK
 https://aipapai.shop/_temp/cartoonnetwork.m3u8
 #EXTINF:-1 ,DISCOVERY KIDS
 https://aipapai.shop/_temp/discoverykids.m3u8
+#EXTINF:-1 ,CARTOON RETRÔ
+https://stmv6.voxtvhd.com.br/retrotv3/retrotv3/chunklist_w1150882920.m3u8
+#EXTINF:-1 ,ANIME TV
+https://stmv1.srvif.com/loadingtv/loadingtv/chunklist_w1782482674.m3u8
+#EXTINF:-1 ,JETSONS TV
+https://stmv1.srvif.com/jetsontv/jetsontv/chunklist_w1926547492.m3u8
+#EXTINF:-1 ,GOSPEL CARTOON
+https://stmv1.srvif.com/gospelcartoon/gospelcartoon/chunklist_w981342678.m3u8
+#EXTINF:-1 ,VIVAX TV
+https://srv3.zcast.com.br/vivaxtv/vivaxtv/chunklist_w286805189.m3u8
 #EXTINF:-1 ,GLOOB
 https://aipapai.shop/_temp/gloob.m3u8
 #EXTINF:-1 ,NICKELODEON
@@ -125,6 +151,8 @@ https://aipapai.shop/_temp/cnnbrasil.m3u8
 https://aipapai.shop/_temp/globonews.m3u8
 #EXTINF:-1 ,RECORD NEWS
 https://aipapai.shop/_temp/recordnews.m3u8
+#EXTINF:-1 ,JOVEM PAN NEWS
+https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index_10.m3u8
 #EXTINF:-1 ,OFF
 https://aipapai.shop/_temp/off.m3u8
 #EXTINF:-1 ,COMEDY CENTRAL
@@ -137,6 +165,8 @@ https://aipapai.shop/_temp/discoveryhh.m3u8
 https://aipapai.shop/_temp/discoverychannel.m3u8
 #EXTINF:-1 ,FOOD NETWORK
 https://aipapai.shop/_temp/foodnetwork.m3u8
+#EXTINF:-1 ,MASTER CHEFF BRASIL
+https://amg00627-amg00627c9-runtime-latam-2613.playouts.now.amagi.tv/playlist/amg00627-banijayfast-masterchefbrazil-runtimelatam/cb543d167d6c64879ed43661cef040a6f94c1fde1d6988693eb5518975d10725dce2b48be65b9e3608dd4087351a6c55567796469a231190dc7eb141453c5728cfffe729a2c05616b7db083429b56a062a866a68ac39437ed0e21f48a238b6720a5aa82a66443d80b846ac7555db80148c7e2c8ab3d5682900050dc60108f5c30ff5aea3045add6fa6af1f4e873b45e68b139fdd4dbb9dd0089a439b77f0429d8fa18987439f8fc067a857b266500a237bcab288f2a32cde5027da58e6130a745c33c4b192e44730f43f293ecbdebb71e16271b4e4168e7523b340b94281228368ab73d289eb121fdaad2c7330ab845f6034e0cab39ee93420ff1f93775b6f120efbc43e0229fb64d7622f3dd0d7ca1a81ca0799fc44efd13b456099c117dcf5b6f2c223637988319c678d5fb56a00fc9d262617d3bb60de3bd47ba9812020537274ac8f59cbbc163f5a7862899a57d81f1af68ec5d39f4617c36e0e42b320f855017ec33d683cb479a2da31639d294a826769b218149052f0bd1bf0a5f0ec1274e08d900cac39affd21fac22f85217c550bb8f76c78404f76dfa7262e386bcc48e19c9bb2204750a2a09cab911d605e793a5d0e82eee230a88fc6280f1f8e0675373a4341e469bc0efe0e4d1221c01aa1ce5820ff444b45cba82b5248639ac9c3e9aad9de4ba770dfcebf5502345b6ab136451666dcb888539f6a1a661bbde1b0e6e91f61aaeab8b74593b373b5f25ce652e718a5/21/1920x1080_6046040/index.m3u8
 #EXTINF:-1 ,GNT
 https://aipapai.shop/_temp/gnt.m3u8
 #EXTINF:-1 ,HISTORY 2
@@ -149,6 +179,10 @@ https://aipapai.shop/_temp/discoverytheather.m3u8
 https://aipapai.shop/_temp/discoveryturbo.m3u8
 #EXTINF:-1 ,ANIMAL PLANET
 https://aipapai.shop/_temp/animalplanet.m3u8
+#EXTINF:-1 ,CANAL SOLO FÉRTIL
+https://canalsolofertil.live/memfs/dd19a992-2e7c-4ffd-97f6-fde810284756_output_0.m3u8?session=Qdw7raVnw7jyqsxAFhD9gL
+#EXTINF:-1 ,CANAL DO CRIADOR
+https://607d2a1a47b1f.streamlock.net/crur/smil:canaldocriador.smil/chunklist_w540139263_b259600_sleng.m3u8
 #EXTINF:-1 ,VIVA
 https://aipapai.shop/_temp/viva.m3u8
 #EXTINF:-1 ,TV NOVO TEMPO
@@ -159,7 +193,25 @@ https://tv03.zas.media:1936/rftv/rftv/chunklist_w2032049182.m3u8
 https://d12e4o88jd8gex.cloudfront.net/out/v1/cea3de0b76ac4e82ab8ee0fd3f17ce12/index_1.m3u8
 #EXTINF:-1 ,TV APARECIDA
 https://cdn.live.br1.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/media-uit8arnra_512654.m3u8
+#EXTINF:-1 ,TV PAI ETERNO
+https://video09.logicahost.com.br/paieterno/paieterno/chunklist_w876763096.m3u8
+#EXTINF:-1 ,TV EVANGELIZAR
+https://tvevangelizar.brasilstream.com.br/hls/tvevangelizar/index.m3u8
+#EXTINF:-1 ,TV IMACULADA CONCEIÇÃO
+https://caikron.com.br:19360/tvmi/tvmi.m3u8
 #EXTINF:-1 ,TV GAZETA
 https://live.eu-north-1b.cf.dmcdn.net/sec2(SKjYGPBLRNJqDDzTtB-xR8Hxt99nQqA2AbvzL-NkQZXC2Zou-qrR7PUhO12OFAjXwBySIGOU0gydvt8M9c6-UWO1F8bxw3jaKqiyh4dimVAnuDJ_yRfFUwnOoYFBTIq6)/dm/3/x8ttlxm/s/live-720.m3u8#cell=lcf-eu-north-1b
 #EXTINF:-1 ,TV UNIVERSAL
 https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/chunklist_8f964974-2b62-420a-a131-ced1c5eb105f.m3u8
+#EXTINF:-1 ,TV REDE GOSPEL
+https://cdn.live.br1.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/chunklist.m3u8
+#EXTINF:-1 ,TV REDE PLENITUDE
+https://meupainel.top:1936/iaptd/iaptd/chunklist_w2030951294.m3u8
+#EXTINF:-1 ,RIT TV
+https://acesso.ecast.site:3648/live/ritlive.m3u8
+#EXTINF:-1 ,TV GIDEÕES
+https://tv01.zas.media:1936/gideoes/gideoes/chunklist_w1842647502.m3u8
+#EXTINF:-1 ,TV BOAS NOVAS
+https://cdn.live.br1.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/chunklist.m3u8
+#EXTINF:-1 ,TV DO CARRO
+https://tv03.zas.media:1936/tvdocarro/tvdocarro/chunklist_w1207118987.m3u8
